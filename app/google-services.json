@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "763374258404",
+    "firebase_url": "https://univ-e2b7c.firebaseio.com",
+    "project_id": "univ-e2b7c",
+    "storage_bucket": "univ-e2b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763374258404:android:6a054f0fb44af8b9",
+        "android_client_info": {
+          "package_name": "com.gitjaipur.univ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763374258404-6sl18hssrlkng32vui1rdeem63hippli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gitjaipur.univ",
+            "certificate_hash": "bc4448a860096e4116a38be1f27151867443a90d"
+          }
+        },
+        {
+          "client_id": "763374258404-i4qch22thcfgjn5lieuhn111345h391c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuihc6IMDqapmxWq0j21lPJpyXd-KjxQ"
+        },
+        {
+          "current_key": "AIzaSyAfuihc6IMDqapmxWq0j21lPJpyXd-KjxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763374258404-i4qch22thcfgjn5lieuhn111345h391c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

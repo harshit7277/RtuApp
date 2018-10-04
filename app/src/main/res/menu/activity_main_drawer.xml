@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_result"
+            android:icon="@drawable/ic_library_books_24dp"
+            android:title="Result" />
+
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/nav_Questions"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="Questions" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contacts_black_24dp"
+            android:title="contacts"
+            />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            android:title="feedback"/>
+
+
+   </group>
+</menu>
